@@ -1,5 +1,5 @@
 {
-    "name": "Catppuccin Frappe",
+    "name": "Catppuccin Frappe (Gen's Fork)",
     "description": "Soothing pastel theme for the high-spirited!",
     "authors": [
       {
@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#8caaee"
+      "#ef9f76"
       ],
       "BACKGROUND_MENTIONED": [
       "rgba(229, 200, 144, 0.1)"
@@ -110,16 +110,16 @@
       "#232634"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-      "#8caaee"
+      "#ef9f76"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-      "#8caaee"
+      "#ef9f76"
       ],
       "SCROLLBAR_THIN_THUMB": [
-      "#8caaee"
+      "#ef9f76"
       ],
       "SCROLLBAR_THIN_TRACK": [
-      "#8caaee"
+      "#ef9f76"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#626880"
@@ -169,12 +169,12 @@
       "PLUM_18": "#414559",
       "PLUM_19": "#414559",
       "PLUM_20": "#303446",
-      "PLUM_21": "#8caaee50",
+      "PLUM_21": "#f5a97f50",
       "PLUM_22": "#414559",
       "PLUM_24": "#232634",
       "PLUM_25": "#292c3c",
       "PLUM_3": "#c6d0f5",
-      "PLUM_4": "#8caaee50",
+      "PLUM_4": "#f5a97f50",
       "PLUM_6": "#c6d0f5",
       "PLUM_9": "#c6d0f5",
       "GREEN_100": "#a6d189",
